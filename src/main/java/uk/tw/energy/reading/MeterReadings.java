@@ -1,6 +1,6 @@
 package uk.tw.energy.reading;
 
-import uk.tw.energy.domain.ElectricityReading;
+import uk.tw.energy.eletricity.ElectricityReading;
 
 import java.util.List;
 

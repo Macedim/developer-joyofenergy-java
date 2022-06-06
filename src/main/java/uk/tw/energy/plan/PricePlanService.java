@@ -1,8 +1,8 @@
 package uk.tw.energy.plan;
 
 import org.springframework.stereotype.Service;
-import uk.tw.energy.domain.ElectricityReading;
-import uk.tw.energy.service.MeterReadingService;
+import uk.tw.energy.eletricity.ElectricityReading;
+import uk.tw.energy.eletricity.MeterReadingService;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
