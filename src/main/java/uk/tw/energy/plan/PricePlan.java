@@ -1,4 +1,4 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.plan;
 
 import java.math.BigDecimal;
 import java.time.DayOfWeek;
