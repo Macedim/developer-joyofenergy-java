@@ -1,4 +1,6 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.reading;
+
+import uk.tw.energy.domain.ElectricityReading;
 
 import java.util.List;
 
